@@ -1,0 +1,5 @@
+
+show databases;
+use library;
+show tables;
+select * from `library`
